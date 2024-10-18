@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: lightblue;
+}
+/*
+https://th.bing.com/th/id/OIP.7uwi1DHSeHt2IpzMKx3AuAHaEK?pid=ImgDet&w=474&h=266&rs=1
+
+https://authoritytattoo.com/why-do-tattoos-turn-green/
+*/
+body {
+ color:purple;
+ font-size:16pt;
+}
+
+p {
+  font-family: "Agdasima", Times, serif;
+  font-size: 16pt;
+  text-indent: .25in;
+}
+
+/* A light blue background and hot pink agdasima text */
